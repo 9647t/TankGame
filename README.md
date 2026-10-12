@@ -1,19 +1,18 @@
 # [Tank Game]
 
 ## Game Overview
-[Explain the player's goal, main challenge,
-and how the player succeeds or loses.]
+Goal: Destroy all five enemy tanks
 
 ## How to Run
 Built with Processing.
 Processing version: [4.0.1]
 Main sketch and project folder: [TankGame]
-Required libraries, if any: [none]
+Required libraries, if any: none
 
-[Explain how to open and run the project.]
+Download zip and uncompress it, then upload project from processing and select TankGame folder
 
 ## Controls
-[List each key or mouse action and what it does.]
+ASWD to move, LEFT CLICK to fire, MOUSE POINTER to aim
 
 ## Required Foundation — 2 Points
 
@@ -21,16 +20,18 @@ Required libraries, if any: [none]
 1. [Name] — [Effect, duration if relevant, and status]
 2. [Name] — [Effect, duration if relevant, and status]
 3. [Name] — [Effect, duration if relevant, and status]
+4. none for now
 
 ### Levels
 [Explain what triggers progression and what changes
 between levels. State the current implementation status.]
+none for now
 
 ## My Chosen Additional Systems
 Choose at least two:
-- Firing enemies
+- Firing enemies [yes]
 - Boss
-- Game statistics
+- Game statistics [yes]
 - Game-over screen with saved results
 
 My choices:
