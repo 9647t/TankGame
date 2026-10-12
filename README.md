@@ -6,9 +6,9 @@ and how the player succeeds or loses.]
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
-Main sketch and project folder: [Names]
-Required libraries, if any: [List or write None]
+Processing version: [4.0.1]
+Main sketch and project folder: [TankGame]
+Required libraries, if any: [none]
 
 [Explain how to open and run the project.]
 
