@@ -9,7 +9,7 @@ Processing version: [4.0.1]
 Main sketch and project folder: [TankGame]
 Required libraries, if any: none
 
-Download zip from src/TankGame and uncompress it, then upload project from processing and select TankGame folder
+Download zip and uncompress it, then upload project from processing and select TankGame folder
 
 ## Controls
 ASWD to move, LEFT CLICK to fire, MOUSE POINTER to aim
